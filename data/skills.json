@@ -1,0 +1,62 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ 
+      {"name":"Python", "link":"https://www.python.org"},
+      {"name":"git", "link":"https://git-scm.com/"},
+      {"name":"linux", "link":"https://www.linux.org/"},
+      {"name":"flask", "link":"https://flask.palletsprojects.com/"}
+      ]
+  },
+  {
+    "grouping":"Data Manipulation and Processing",
+    "skills":[ 
+      {"name":"Numpy", "link":"https://numpy.org/"},
+      {"name":"Pandas", "link":"https://pandas.pydata.org"},
+      {"name":"SQL", "link":"https://www.tutorialspoint.com/sql/index.htm"},
+      {"name":"cupy", "link":"https://cupy.dev"}
+      ]
+  },
+
+  {
+    "grouping":"Machine Learning / DeepLearning",
+    "skills":[ 
+      {"name":"scikit-learn", "link":"https://scikit-learn.org/stable/index.html"},
+      {"name":"opencv", "link":"https://opencv.org"},
+      {"name":"cuml", "link":"https://docs.rapids.ai/api/cuml/stable/"},
+      {"name":"nltk", "link":"https://www.nltk.org"},
+      {"name":"Tensorflow", "link":"https://www.tensorflow.org"},
+      {"name":"PyTorch", "link":"https://pytorch.org"},
+      {"name":"XLA(TPU)", "link":"http://pytorch.org/xla/release/1.6/index.html"}
+      ]
+  },
+
+  {
+    "grouping":"Visualization",
+    "skills":[ 
+      {"name":"Matplotlib", "link":"https://matplotlib.org"},
+      {"name":"Plotly", "link":"https://plotly.com"},
+      {"name":"Seaborn", "link":"https://seaborn.pydata.org"},
+      {"name":"Bokeh", "link":"https://bokeh.org"}
+      ]
+  },
+
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"MySQL","icon":"msql_server", "link":"https://www.mysql.com"},
+        {"name":"sqlite","icon":"database", "link":"https://sqlite.org/"},
+        {"name":"MongoDB", "link":"https://www.mongodb.com/"},
+        {"name":"Firebase", "link":"https://firebase.google.com/"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"GCP","link":"https://cloud.google.com", "icon":"google-cloud-platform"},
+          {"name":"Heroku","link":"https://www.heroku.com/"}
+      ]
+  }
+]
