@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matplotlib on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/matplotlib/</link>
+    <description>Recent content in Matplotlib on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive Analysis for CTDS.SHOW</title>
+      <link>https://rstak.github.io/projects/creations/cdts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/cdts/</guid>
+      <description>Dataset provided by Mr. Rohan Rao and Mr. Sanyam Bhutani in form of a Kaggle Competition celebrating its 1-year anniversary.
+Wraping up 1st Positon and 3rd Position in StoryTelling and Overall Competition respectively, this analysis with the help of visualizing tools like Bokeh and Plotly not only harness the power of an anecdote but identifies certain patterns in the data, answering some constructive questions like :
+ How to get More Audience?</description>
+    </item>
+    
+    <item>
+      <title>Data Science anda Heart Diseases</title>
+      <link>https://rstak.github.io/projects/creations/heart_disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/heart_disease/</guid>
+      <description>Elucidated the life cycle of any DataScience Project with the help of two Dataset, namely :
+ Cardiovascular Disease dataset by Svetlana Ulianova Heart Disease UCI by ronit based on an UCI Repository  Sections ✔️ Data Analysis
+ Missing / Duplicate Values Find all the Continuous Features Handling Outliers if Any Distribution of the Continuous Features Find all the Discrete Features Cardinality of Discrete Features Relation with Independent and Dependent Features  ✔️ Feature Engineering</description>
+    </item>
+    
+    <item>
+      <title>Melonoma Skin Cancer Detection</title>
+      <link>https://rstak.github.io/projects/creations/melonoma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/melonoma/</guid>
+      <description>Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It&amp;rsquo;s also expected that almost 7,000 people will die from the disease. As with other cancers, early and accurate detection potentially aided by data science can make treatment more effective.</description>
+    </item>
+    
+  </channel>
+</rss>

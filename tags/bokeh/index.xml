@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bokeh on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/bokeh/</link>
+    <description>Recent content in Bokeh on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/bokeh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comprehensive Analysis for CTDS.SHOW</title>
+      <link>https://rstak.github.io/projects/creations/cdts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/cdts/</guid>
+      <description>Dataset provided by Mr. Rohan Rao and Mr. Sanyam Bhutani in form of a Kaggle Competition celebrating its 1-year anniversary.
+Wraping up 1st Positon and 3rd Position in StoryTelling and Overall Competition respectively, this analysis with the help of visualizing tools like Bokeh and Plotly not only harness the power of an anecdote but identifies certain patterns in the data, answering some constructive questions like :
+ How to get More Audience?</description>
+    </item>
+    
+  </channel>
+</rss>

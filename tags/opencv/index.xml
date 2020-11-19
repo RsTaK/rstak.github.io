@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCV on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/opencv/</link>
+    <description>Recent content in OpenCV on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGIAR Wheat Growth Stage Challenge by CGIAR</title>
+      <link>https://rstak.github.io/projects/creations/wheat_growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/wheat_growth/</guid>
+      <description>Picture-based insurance (PBI) improves crop insurance for small scale farmers around the world, where images from a smartphone camera keep a record of a crop’s growth and record any damage events that will affect insurance payouts. PBI is a great way for insurers to verify events and to monitor crop growth, but it can also generate overwhelming amounts of data once images stream in from thousands of farmers.
+Here, We will automate one part of the data processing pipeline:</description>
+    </item>
+    
+    <item>
+      <title>Melonoma Skin Cancer Detection</title>
+      <link>https://rstak.github.io/projects/creations/melonoma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/melonoma/</guid>
+      <description>Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It&amp;rsquo;s also expected that almost 7,000 people will die from the disease. As with other cancers, early and accurate detection potentially aided by data science can make treatment more effective.</description>
+    </item>
+    
+    <item>
+      <title>OpenCV-Sudoku-Solver</title>
+      <link>https://rstak.github.io/projects/creations/sudoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/sudoku/</guid>
+      <description>Well, I&amp;rsquo;m not a good Sudoku player, generally hesitate to solve a sudoku. Also it&amp;rsquo;s quite time consuming. One day i came to know about Artificial Intelligence and how it can be used to replicate humans work. I got very facinated by the fact that i can teach my machine to solve a sudoku that can solve quite faster and efficiently than even i could do. Exploring my excitement, I build this OpenCV Sudoku Solver that takes picture of a sudoku as an input and displays a solved sudoku within a minute</description>
+    </item>
+    
+  </channel>
+</rss>

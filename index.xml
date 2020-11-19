@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Rahul Gulia</title>
+    <link>https://rstak.github.io/</link>
+    <description>Recent content in Home on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://rstak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://rstak.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://rstak.github.io/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://rstak.github.io/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://rstak.github.io/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://rstak.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>CGIAR Wheat Growth Stage Challenge by CGIAR</title>
+      <link>https://rstak.github.io/projects/creations/wheat_growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/wheat_growth/</guid>
+      <description>Picture-based insurance (PBI) improves crop insurance for small scale farmers around the world, where images from a smartphone camera keep a record of a crop’s growth and record any damage events that will affect insurance payouts. PBI is a great way for insurers to verify events and to monitor crop growth, but it can also generate overwhelming amounts of data once images stream in from thousands of farmers.
+Here, We will automate one part of the data processing pipeline:</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Analysis for CTDS.SHOW</title>
+      <link>https://rstak.github.io/projects/creations/cdts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/cdts/</guid>
+      <description>Dataset provided by Mr. Rohan Rao and Mr. Sanyam Bhutani in form of a Kaggle Competition celebrating its 1-year anniversary.
+Wraping up 1st Positon and 3rd Position in StoryTelling and Overall Competition respectively, this analysis with the help of visualizing tools like Bokeh and Plotly not only harness the power of an anecdote but identifies certain patterns in the data, answering some constructive questions like :
+ How to get More Audience?</description>
+    </item>
+    
+    <item>
+      <title>Data Science anda Heart Diseases</title>
+      <link>https://rstak.github.io/projects/creations/heart_disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/heart_disease/</guid>
+      <description>Elucidated the life cycle of any DataScience Project with the help of two Dataset, namely :
+ Cardiovascular Disease dataset by Svetlana Ulianova Heart Disease UCI by ronit based on an UCI Repository  Sections ✔️ Data Analysis
+ Missing / Duplicate Values Find all the Continuous Features Handling Outliers if Any Distribution of the Continuous Features Find all the Discrete Features Cardinality of Discrete Features Relation with Independent and Dependent Features  ✔️ Feature Engineering</description>
+    </item>
+    
+    <item>
+      <title>Indian Pulses Classification</title>
+      <link>https://rstak.github.io/projects/creations/indian_pulses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/indian_pulses/</guid>
+      <description>Leveraging the power of Deep-learning, deployed a Flask based Web application successfully capable of identifying the type of pulse with 98% accuracy on validation dataset.
+Currently supports 14 commonly used Pulses in Indian households, namely :
+ Adzuki Beans Black Gram Chickpeas Dew Bean Green Chickpeas Green Gram Pinto Beans Red Kidney Beans Red Lentils Split &amp;amp; Skinned Black Gram Split Black Gram Split Green Gram White Kidney Beans Yellow Lentils  Refer to pulse_list.</description>
+    </item>
+    
+    <item>
+      <title>Melonoma Skin Cancer Detection</title>
+      <link>https://rstak.github.io/projects/creations/melonoma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/melonoma/</guid>
+      <description>Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It&amp;rsquo;s also expected that almost 7,000 people will die from the disease. As with other cancers, early and accurate detection potentially aided by data science can make treatment more effective.</description>
+    </item>
+    
+    <item>
+      <title>OpenCV-Sudoku-Solver</title>
+      <link>https://rstak.github.io/projects/creations/sudoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/sudoku/</guid>
+      <description>Well, I&amp;rsquo;m not a good Sudoku player, generally hesitate to solve a sudoku. Also it&amp;rsquo;s quite time consuming. One day i came to know about Artificial Intelligence and how it can be used to replicate humans work. I got very facinated by the fact that i can teach my machine to solve a sudoku that can solve quite faster and efficiently than even i could do. Exploring my excitement, I build this OpenCV Sudoku Solver that takes picture of a sudoku as an input and displays a solved sudoku within a minute</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://rstak.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

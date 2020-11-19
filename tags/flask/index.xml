@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/flask/</link>
+    <description>Recent content in Flask on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indian Pulses Classification</title>
+      <link>https://rstak.github.io/projects/creations/indian_pulses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/indian_pulses/</guid>
+      <description>Leveraging the power of Deep-learning, deployed a Flask based Web application successfully capable of identifying the type of pulse with 98% accuracy on validation dataset.
+Currently supports 14 commonly used Pulses in Indian households, namely :
+ Adzuki Beans Black Gram Chickpeas Dew Bean Green Chickpeas Green Gram Pinto Beans Red Kidney Beans Red Lentils Split &amp;amp; Skinned Black Gram Split Black Gram Split Green Gram White Kidney Beans Yellow Lentils  Refer to pulse_list.</description>
+    </item>
+    
+    <item>
+      <title>OpenCV-Sudoku-Solver</title>
+      <link>https://rstak.github.io/projects/creations/sudoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/sudoku/</guid>
+      <description>Well, I&amp;rsquo;m not a good Sudoku player, generally hesitate to solve a sudoku. Also it&amp;rsquo;s quite time consuming. One day i came to know about Artificial Intelligence and how it can be used to replicate humans work. I got very facinated by the fact that i can teach my machine to solve a sudoku that can solve quite faster and efficiently than even i could do. Exploring my excitement, I build this OpenCV Sudoku Solver that takes picture of a sudoku as an input and displays a solved sudoku within a minute</description>
+    </item>
+    
+  </channel>
+</rss>

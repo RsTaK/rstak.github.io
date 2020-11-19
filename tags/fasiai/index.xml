@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FasiAI on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/fasiai/</link>
+    <description>Recent content in FasiAI on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/fasiai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGIAR Wheat Growth Stage Challenge by CGIAR</title>
+      <link>https://rstak.github.io/projects/creations/wheat_growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/wheat_growth/</guid>
+      <description>Picture-based insurance (PBI) improves crop insurance for small scale farmers around the world, where images from a smartphone camera keep a record of a crop’s growth and record any damage events that will affect insurance payouts. PBI is a great way for insurers to verify events and to monitor crop growth, but it can also generate overwhelming amounts of data once images stream in from thousands of farmers.
+Here, We will automate one part of the data processing pipeline:</description>
+    </item>
+    
+  </channel>
+</rss>

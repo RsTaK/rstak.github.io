@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Numpy on Rahul Gulia</title>
+    <link>https://rstak.github.io/tags/numpy/</link>
+    <description>Recent content in  Numpy on Rahul Gulia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rstak.github.io/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science anda Heart Diseases</title>
+      <link>https://rstak.github.io/projects/creations/heart_disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rstak.github.io/projects/creations/heart_disease/</guid>
+      <description>Elucidated the life cycle of any DataScience Project with the help of two Dataset, namely :
+ Cardiovascular Disease dataset by Svetlana Ulianova Heart Disease UCI by ronit based on an UCI Repository  Sections ✔️ Data Analysis
+ Missing / Duplicate Values Find all the Continuous Features Handling Outliers if Any Distribution of the Continuous Features Find all the Discrete Features Cardinality of Discrete Features Relation with Independent and Dependent Features  ✔️ Feature Engineering</description>
+    </item>
+    
+  </channel>
+</rss>
